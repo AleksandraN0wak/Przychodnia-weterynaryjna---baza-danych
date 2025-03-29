@@ -6,7 +6,7 @@ pacjenci, lekarze i wizyty.
 
 ## Analizy bazy danych:
 
-A1 - Średni wiek pacjentów  
+A1 - Średni wiek pacjentów (./A1_ Średni wiek pacjentów.sql/)  
 A2 - Ilość pacjentów według gatunku  
 A3 - Średni koszt wizyty  
 A4 - Ilość wizyt w określonym miesiącu  
